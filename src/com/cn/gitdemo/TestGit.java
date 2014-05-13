@@ -6,6 +6,7 @@ public class TestGit {
         System.err.println("aaa");
         System.err.println("bbb");
         System.err.println("ccc");
+		System.err.println("ddd");
     }
 
 }
