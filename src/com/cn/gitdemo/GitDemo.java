@@ -7,7 +7,7 @@ public class GitDemo {
     }
 
     public String sayHw() {
-        return "my is sayHw mothd.";
+        return "my is sayHw mothd. from source tree upd";
     }
 
 }
